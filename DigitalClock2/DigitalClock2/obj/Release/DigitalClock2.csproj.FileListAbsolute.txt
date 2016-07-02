@@ -1,0 +1,9 @@
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\bin\Release\DigitalClock2.exe.config
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\bin\Release\DigitalClock2.exe
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\bin\Release\DigitalClock2.pdb
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\obj\Release\DigitalClock2.Form1.resources
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\obj\Release\DigitalClock2.Properties.Resources.resources
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\obj\Release\DigitalClock2.csproj.GenerateResource.Cache
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\obj\Release\DigitalClock2.exe
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\obj\Release\DigitalClock2.pdb
+D:\CSharpWorkSpace\DigitalClock2\DigitalClock2\obj\Release\DigitalClock2.csprojResolveAssemblyReference.cache
